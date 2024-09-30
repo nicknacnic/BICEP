@@ -36,3 +36,4 @@ This script analyzes DHCP data from CSV files to identify top clients, correlate
 ## To Do
 - [ ] Integrate to Postman for CSP MAC Fingerprint data.
 - [ ] Fix summary and verbose errors.
+- [ ] Larger main function to pull in DHCP, then other checks over time. 
