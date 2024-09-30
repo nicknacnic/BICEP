@@ -1,5 +1,8 @@
 # BICEP 💪
-BloxOne/UDDI Infoblox Cloud Expenditure Probe. A tool that identifies potential quality of life issues for Infoblox BloxOne/UDDI customers.
+BloxOne/UDDI Infoblox Cloud Expenditure Probe. 
+
+A tool that identifies potential quality of life issues in a deployment.
+
 ## BICEP
 
 
@@ -16,7 +19,7 @@ Run the script.
 > Use -s for summary, v for verbose.
 
 ### Overview:
-This script is designed to help clean up your macOS system by uninstalling Homebrew packages and casks that haven't been used for a significant amount of time.
+This script is designed to identify misbehaving clients potentially increasing licensure costs.
 
 ### How It Works:
 This script analyzes DHCP data from CSV files to identify top clients, correlate leases to networks, and flag misbehaving clients. It:
