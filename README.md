@@ -10,7 +10,7 @@ A tool that identifies potential quality of life issues in a deployment.
 
 ### Installation:
 Pull the repo.
-```git clone [https://github.com/BICEP/](https://github.com/nicknacnic/BICEP.git)```
+```git clone https://github.com/nicknacnic/BICEP.git```
 
 Run the script.
 ```python bicep.py -s > output.txt```
