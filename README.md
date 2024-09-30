@@ -7,7 +7,7 @@ BloxOne/UDDI Infoblox Cloud Expenditure Probe. A tool that identifies potential 
 
 ### Installation:
 Tap the formulae.
-```git clone https://github.com/BICEP/```
+```git clone https://github.com/BICEP/](https://github.com/nicknacnic/BICEP.git```
 
 Run the script.
 ```python bicep.py -s > output.txt```
